@@ -4,5 +4,4 @@ Desafio encontrado no frontendMentor. Construído em React JS.
 
 #### Minha versão:
 
-![image](https://user-images.githubusercontent.com/66935004/131235160-0e78aa40-9d3d-4c8b-b8df-bcd20175b55c.png)
-
+![image](https://user-images.githubusercontent.com/66935004/131235375-7b10e2b1-98bb-49f3-b8d4-fa96fdbecfc8.png)
