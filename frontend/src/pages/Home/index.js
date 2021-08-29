@@ -20,7 +20,6 @@ const Home = () => {
 
   const searchUser = async () => {
     const response = await HomeServices.user(user);
-    console.log(response.data);
     setDataUser(response.data);
   };
 
