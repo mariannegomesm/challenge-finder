@@ -46,7 +46,7 @@ const Home = () => {
             <div>
               <div className="card-header">
                 <h3>{dataUser?.name}</h3>
-                <label>Entrou em 2019</label>
+                <label>Entrou em {dataUser.created_at.slice(0, 4)}</label>
               </div>
               <label>@{dataUser?.login}</label>
               <p>{dataUser?.bio}</p>
