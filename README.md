@@ -7,7 +7,7 @@ Desenvolvido com React.js no frontend e consumindo a API do github.
 ##
 
 #### Minha versão:
-![image](https://user-images.githubusercontent.com/66935004/131235375-7b10e2b1-98bb-49f3-b8d4-fa96fdbecfc8.png)
+![image](https://user-images.githubusercontent.com/66935004/147425740-f67624c1-55c2-42fb-bcd2-870613fa19da.png)
 
 ##
 
