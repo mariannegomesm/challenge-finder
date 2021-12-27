@@ -8,7 +8,7 @@ const Header = () => {
   return (
     <header>
       <h3>UserFinder</h3>
-      <button onClick={() => themeLight()}>LIGHT ☀</button>
+      <button onClick={() => themeLight()}>Github</button>
     </header>
   );
 };

@@ -40,6 +40,11 @@
       input::placeholder {
         color: var(--color-white);
       }
+
+      input:focus,
+      input:active {
+        outline: none;
+      }
     }
 
     button {
