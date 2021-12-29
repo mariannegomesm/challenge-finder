@@ -2,12 +2,17 @@
 
 #### Sobre: 
 Desafio encontrado no frontendMentor. <br />
-Desenvolvido com React.js no frontend e consumindo a API do github.
+Encontre usuários do github através do username.
 
 ##
 
-#### Minha versão:
+#### Interface:
 ![image](https://user-images.githubusercontent.com/66935004/147425740-f67624c1-55c2-42fb-bcd2-870613fa19da.png)
+
+##
+
+#### Tecnologias:
+React.js
 
 ##
 
@@ -15,6 +20,5 @@ Desenvolvido com React.js no frontend e consumindo a API do github.
 
 - Na pasta "frontend", execute:
 
-  > npm install
-  >
+  > npm install <br />
   > npm start
