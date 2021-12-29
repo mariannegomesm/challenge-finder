@@ -18,7 +18,7 @@ React.js
 
 #### Processo de instalação:
 
-- Na pasta "frontend", execute:
+- Na pasta <strong>"frontend"</strong>, execute:
 
   > npm install <br />
   > npm start
