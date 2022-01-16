@@ -92,7 +92,7 @@ const Home = () => {
           <div className="section-no-user">
             <LottieFile name="github" />
             <h3>Para iniciar, pesquise um usuário</h3>
-            <label>Ex: annegomesm</label>
+            <label>Ex: mariannegomesm</label>
           </div>
         )}
       </Card>
