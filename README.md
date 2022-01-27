@@ -8,7 +8,7 @@ Encontre usuários do github através do username.
 
 #### Interface:
 
-![image](https://user-images.githubusercontent.com/66935004/149647309-36f74f70-d430-4200-8f1f-a894059d3903.png)
+![image](https://user-images.githubusercontent.com/66935004/151274834-628f2e5f-2087-4785-a432-10611cd87ac5.png)
 
 ##
 
